@@ -1,6 +1,6 @@
-- 👋 Hi, I’m mr manaskumar
+- 👋 Hi, I’m  Manas Kumar
 - 👀 I’m interested in developing games 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me watsapp me on 8931030960
 
